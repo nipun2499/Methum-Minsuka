@@ -6,8 +6,9 @@
 <div align="left">
   <table>
     <tr>
-      <td width="100%" align="Left">
+      <td width="50%" align="Left">
         <h3 align="center">About Me</h3>
+        
 - 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
@@ -18,8 +19,8 @@
   
 - ⚡ Fun fact **Call me as KD**
       </td>
-      <td width="100%" align="center">
-        <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="500" height="300" alt="Xbox game GIF via GIPHY"/>
+      <td width="50%" align="center">
+        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
       </td>
     </tr>
   </table>
@@ -58,14 +59,17 @@
 </div>
 
 ###
+
+
+
 <div align="left">
   <table>
     <tr>
-      <td width="100%" align="center">
+      <td width="50%" align="Left">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Methum-Minsuka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
-      <td width="100%" align="center">
-        <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="280" height="150" alt="Xbox game GIF via GIPHY"/>
+      <td width="50%" align="Left">
+        <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="550" height="250" alt="Xbox game GIF via GIPHY"/>
       </td>
     </tr>
   </table>
