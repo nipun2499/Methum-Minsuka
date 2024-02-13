@@ -64,7 +64,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Methum-Minsuka/Methum-Minsuka/output/snake.svg" alt="Snake animation" />
-
-###
