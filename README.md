@@ -1,12 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Methum Minsuka</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="left">
+  <table>
+    <tr>
+      <td width="100%" align="Left">
+        <h3 align="center">About Me</h3>
+- 🌱 I’m currently learning **MERN**
 
-###
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
+      </td>
+      <td width="100%" align="center">
+        <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="500" height="300" alt="Xbox game GIF via GIPHY"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
@@ -41,10 +58,17 @@
 </div>
 
 ###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Methum-Minsuka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="280" height="150" alt="Xbox game GIF via GIPHY"/>
+  <table>
+    <tr>
+      <td width="100%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Methum-Minsuka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+      <td width="100%" align="center">
+        <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="280" height="150" alt="Xbox game GIF via GIPHY"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
