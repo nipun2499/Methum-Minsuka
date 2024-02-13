@@ -66,7 +66,7 @@
   <table>
     <tr>
       <td width="50%" align="Left">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Methum-Minsuka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Methum-Minsuka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
       </td>
       <td width="50%" align="Left">
         <img src="https://media.giphy.com/media/pl3fgP5qrm9WzZuu4U/giphy.gif" width="550" height="250" alt="Xbox game GIF via GIPHY"/>
